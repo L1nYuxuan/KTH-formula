@@ -1,0 +1,3 @@
+Symlinking /src/kthfsdv/devel/lib/pkgconfig/sub.pc
+Symlinking /src/kthfsdv/devel/share/sub/cmake/subConfig.cmake
+Symlinking /src/kthfsdv/devel/share/sub/cmake/subConfig-version.cmake

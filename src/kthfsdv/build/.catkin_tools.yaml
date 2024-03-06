@@ -1,0 +1,6 @@
+devel_space: /src/kthfsdv/devel
+install: false
+install_space: /src/kthfsdv/install
+profile: default
+source_space: /src/kthfsdv/src
+workspace: /src/kthfsdv
