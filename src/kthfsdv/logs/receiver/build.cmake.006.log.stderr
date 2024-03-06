@@ -1,7 +1,0 @@
-[31m[1mCMake Error[0m at /opt/ros/melodic/share/catkin/cmake/catkin_install_python.cmake:68 (message):
-  catkin_install_python() called with non-existing file
-  '/Users/linyuxuan/KTH_Formula/src/kthfsdv/src/exc1/broadcast/src/talker.py'.
-[36mCall Stack (most recent call first):[0m
-  CMakeLists.txt:206 (catkin_install_python)
-
-

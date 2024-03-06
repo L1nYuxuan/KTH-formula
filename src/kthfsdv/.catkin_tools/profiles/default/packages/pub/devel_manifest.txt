@@ -1,5 +1,0 @@
-exc1/pub
-/src/kthfsdv/devel/.private/pub/cmake.lock /src/kthfsdv/devel/./cmake.lock
-/src/kthfsdv/devel/.private/pub/lib/pkgconfig/pub.pc /src/kthfsdv/devel/lib/pkgconfig/pub.pc
-/src/kthfsdv/devel/.private/pub/share/pub/cmake/pubConfig.cmake /src/kthfsdv/devel/share/pub/cmake/pubConfig.cmake
-/src/kthfsdv/devel/.private/pub/share/pub/cmake/pubConfig-version.cmake /src/kthfsdv/devel/share/pub/cmake/pubConfig-version.cmake

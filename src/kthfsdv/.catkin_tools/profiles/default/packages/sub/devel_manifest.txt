@@ -1,5 +1,0 @@
-exc1/sub
-/src/kthfsdv/devel/.private/sub/cmake.lock /src/kthfsdv/devel/./cmake.lock
-/src/kthfsdv/devel/.private/sub/lib/pkgconfig/sub.pc /src/kthfsdv/devel/lib/pkgconfig/sub.pc
-/src/kthfsdv/devel/.private/sub/share/sub/cmake/subConfig.cmake /src/kthfsdv/devel/share/sub/cmake/subConfig.cmake
-/src/kthfsdv/devel/.private/sub/share/sub/cmake/subConfig-version.cmake /src/kthfsdv/devel/share/sub/cmake/subConfig-version.cmake

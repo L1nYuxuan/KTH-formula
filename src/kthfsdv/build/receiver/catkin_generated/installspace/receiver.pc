@@ -1,8 +1,0 @@
-prefix=/src/kthfsdv/install
-
-Name: receiver
-Description: Description of receiver
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
