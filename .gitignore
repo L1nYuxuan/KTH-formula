@@ -1,5 +1,5 @@
 .*
-!.gitignore
 /src/kthfsdv/build
 /src/kthfsdv/devel
 /src/kthfsdv/logs
+Dockerfiles
